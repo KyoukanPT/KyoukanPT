@@ -15,11 +15,10 @@
 
 ## ✉️ Find me on:
 
- <a href="https://www.linkedin.com/in/tiagohenriquesilva/" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Linkedin" height="40" style="vertical-align:top; margin:4px;"></a>
+ <a href="https://www.linkedin.com/in/tiagohenriquesilva/" target="_blank" rel="noopener noreferrer"> <img src="https://image.flaticon.com/icons/png/512/174/174857.png" alt="Linkedin" height="40" style="vertical-align:top; margin:4px;"></a>
  &nbsp;
- 
- <a href="https://www.linkedin.com/in/tiagohenriquesilva/" target="_blank" rel="noopener noreferrer"> <img src="https://cdn1.iconfinder.com/data/icons/capsocial/500/Outlook-512.png" alt="Linkedin" height="40" style="vertical-align:top; margin:4px;"></a>
- <a href="mailto:tiagohenrique_1988@hotmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Email" height="40" style="vertical-align:top; margin:4px"></a>
+ <a href="mailto: tiagohenrique_1988@hotmail.com" target="_blank" rel="noopener noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Outlook.com_icon.svg/1200px-Outlook.com_icon.svg.png" alt="Linkedin" height="40" style="vertical-align:top; margin:4px;"></a>
+
 
 <br />
 
