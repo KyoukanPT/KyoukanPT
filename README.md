@@ -35,8 +35,8 @@
 <img src="https://cdn.freebiesupply.com/logos/large/2x/nodejs-1-logo-png-transparent.png" alt="Node" height="70" style="vertical-align:top; margin:4px">&nbsp; &nbsp;
 <img src="https://i.ibb.co/Xtrgx6f/expressjs-removebg-preview.png" alt="Express" height="70" width="120" style="vertical-align:top; margin:4px">&nbsp; 
 <img src="https://cdn.app.compendium.com/uploads/user/e7c690e8-6ff9-102a-ac6d-e4aebca50425/ee090372-8a63-44d7-b163-306184b9d293/File/cde43891991f76a5e7df17ac6d373aff/mysql_logo_png_transparent.png" alt="MySQL" height="70" style="vertical-align:top; margin:4px">&nbsp;
-<img src="https://cdn.iconscout.com/icon/free/png-512/mongodb-226029.png" alt="MongoDB" height="70" width="70" size="150%" style="vertical-align:top; margin:4px">&nbsp;
-<img src="https://i.ibb.co/WDChqGM/Screenshot-2-removebg-preview.png" alt="Mongoose" height="70" width="80" size="150%" style="vertical-align:top; margin:4px">&nbsp; 
+<img src="https://i.ibb.co/rtgYHts/mongodb-logo-rgb-j6w271g1xn-1024x270-removebg-preview.png" alt="MongoDB" height="70" width="70" size="150%" style="vertical-align:top; margin:4px">&nbsp;
+<img src="https://i.ibb.co/WDChqGM/Screenshot-2-removebg-preview.png" alt="Mongoose" height="70" width="100" size="150%" style="vertical-align:top; margin:4px">&nbsp; 
 <img src="https://i.pinimg.com/originals/6b/a5/e8/6ba5e8c2a205b64cbfdf5b25bd9e4c22.png" alt="Git" height="70" width="90" style="vertical-align:top; margin:4px">&nbsp; 
 <img src="https://i.ibb.co/wyp9vDF/kisspng-ubuntu-linux-distribution-long-term-support-canoni-linux-5aca4e1926d683-75241082152320770515.png" alt="Ubuntu" height="70" style="vertical-align:top; margin:4px">&nbsp;
 <img src="https://www.freeiconspng.com/thumbs/windows-icon-png/system-windows-icon-png-4.png" alt="Windows" height="70" style="vertical-align:top; margin:4px">&nbsp;   
