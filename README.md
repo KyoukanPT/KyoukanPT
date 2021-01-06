@@ -34,7 +34,7 @@
 <img src="https://cdn.freebiesupply.com/logos/large/2x/nodejs-1-logo-png-transparent.png" alt="Node" height="60" style="vertical-align:top; margin:4px"> 
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" alt="Express" height="60" style="vertical-align:top; margin:4px"> 
 <img src="https://cdn.app.compendium.com/uploads/user/e7c690e8-6ff9-102a-ac6d-e4aebca50425/ee090372-8a63-44d7-b163-306184b9d293/File/cde43891991f76a5e7df17ac6d373aff/mysql_logo_png_transparent.png" alt="MySQL" height="60" style="vertical-align:top; margin:4px">  
-<img src="https://toppng.com/uploads/preview/9kib-354x415-unnamed-mongodb-logo-sv-11562860723mgempnmrq3.png" alt="MongoDB" height="60" style="vertical-align:top; margin:4px">
+<img src="https://cdn.iconscout.com/icon/free/png-512/mongodb-226029.png" alt="MongoDB" height="60" style="vertical-align:top; margin:4px">
 <img src="https://pbs.twimg.com/profile_images/946432748276740096/0TXzZU7W_400x400.jpg" alt="Mongoose" height="60" style="vertical-align:top; margin:4px">  
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" alt="Linux" height="60" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git" height="60" style="vertical-align:top; margin:4px"> 
