@@ -4,7 +4,7 @@
 
 [![Github](https://img.shields.io/github/followers/KyoukanPT?label=Follow&style=social)](https://github.com/KyoukanPT)
 
-🔭 I’m currently working on some personal web development projects.<br>
+🔭 I’m currently working on some personal Web Development projects.<br>
 🌱 I’m currently learning React.<br>
 👯 I’m looking to collaborate with anyone on any project.<br>
 💬 Ask me about anything<br>
@@ -13,9 +13,9 @@
 ## ✉️ Find me on:
 
 <p align="center">
- <a href="https://github.com/KyoukanPT" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="Github" height="40" style="vertical-align:top; margin:10px"> </a>
- <a href="https://www.linkedin.com/in/tiagohenriquesilva/" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Linkedin" height="40" style="vertical-align:top; margin:10px"></a>
- <a href="mailto:tiagohenrique_1988@hotmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Email" height="40" style="vertical-align:top; margin:10px"></a>
+ <a href="https://github.com/KyoukanPT" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="Github" height="40" style="vertical-align:top; margin:4px"> </a>
+ <a href="https://www.linkedin.com/in/tiagohenriquesilva/" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Linkedin" height="40" style="vertical-align:top; margin:4px"></a>
+ <a href="mailto:tiagohenrique_1988@hotmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Email" height="40" style="vertical-align:top; margin:4px"></a>
 </p>
 
 <br />
