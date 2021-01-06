@@ -34,10 +34,10 @@
 <img src="https://cdn.freebiesupply.com/logos/large/2x/nodejs-1-logo-png-transparent.png" alt="Node" height="70" style="vertical-align:top; margin:4px">&nbsp; &nbsp;
 <img src="https://fd-development.com/images/expressjs.png" alt="Express" height="70" width="100" style="vertical-align:top; margin:4px">&nbsp; 
 <img src="https://cdn.app.compendium.com/uploads/user/e7c690e8-6ff9-102a-ac6d-e4aebca50425/ee090372-8a63-44d7-b163-306184b9d293/File/cde43891991f76a5e7df17ac6d373aff/mysql_logo_png_transparent.png" alt="MySQL" height="70" style="vertical-align:top; margin:4px">&nbsp;
-<img src="https://cdn.app.compendium.com/uploads/user/e7c690e8-6ff9-102a-ac6d-e4aebca50425/f4a5b21d-66fa-4885-92bf-c4e81c06d916/Image/e5eee315a17de0d7f56117077eb71fa9/mongo.png" alt="MongoDB" height="70" width="90" style="vertical-align:top; margin:4px">&nbsp;
-<img src="https://www.pngfind.com/pngs/m/430-4309574_mongoose-js-logo-hd-png-download.png" alt="Mongoose" height="70" style="vertical-align:top; margin:4px">&nbsp; 
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRwkvjMnJF9Yjb18te8tojMLbCs5Rx8tykbQ&usqp=CAU" alt="Git" height="70" style="vertical-align:top; margin:4px">&nbsp; 
-<img src="https://w7.pngwing.com/pngs/793/740/png-transparent-ubuntu-computer-icons-long-term-support-canonical-gifts-panels-shading-background-miscellaneous-orange-logo.png" alt="Ubuntu" height="70" style="vertical-align:top; margin:4px">&nbsp;
+<img src="https://cdn.app.compendium.com/uploads/user/e7c690e8-6ff9-102a-ac6d-e4aebca50425/f4a5b21d-66fa-4885-92bf-c4e81c06d916/Image/e5eee315a17de0d7f56117077eb71fa9/mongo.png" alt="MongoDB" height="70" width="80" style="vertical-align:top; margin:4px">&nbsp;
+<img src="https://ibb.co/wKQx1J8" alt="Mongoose" height="70" style="vertical-align:top; margin:4px">&nbsp; 
+<img src="https://www.clipartmax.com/png/middle/218-2181371_logo-git-git-icon.png" alt="Git" height="70" style="vertical-align:top; margin:4px">&nbsp; 
+<img src="https://www.pngfind.com/pngs/m/74-745175_ubuntu-logo-white-png-transparent-png.png" alt="Ubuntu" height="70" style="vertical-align:top; margin:4px">&nbsp;
 <img src="https://www.freeiconspng.com/thumbs/windows-icon-png/system-windows-icon-png-4.png" alt="Windows" height="70" style="vertical-align:top; margin:4px">&nbsp;   
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="70" style="vertical-align:top; margin:4px">&nbsp; &nbsp; 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/IntelliJ_IDEA_Logo.svg/1024px-IntelliJ_IDEA_Logo.svg.png" alt="IntelliJ Idea" height="70" style="vertical-align:top; margin:4px">&nbsp; 
