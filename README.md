@@ -33,12 +33,12 @@
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React" height="60" style="vertical-align:top; margin:4px">
 <img src="https://cdn.freebiesupply.com/logos/large/2x/nodejs-1-logo-png-transparent.png" alt="Node" height="60" style="vertical-align:top; margin:4px"> 
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" alt="Express" height="60" style="vertical-align:top; margin:4px"> 
-<img src="https://img1.pnghut.com/5/20/13/z8Ef2bGSzE/mysql-cluster-text-computer-servers-area-logo.jpg" alt="MySQL" height="60" style="vertical-align:top; margin:4px">  
+<img src="https://cdn.app.compendium.com/uploads/user/e7c690e8-6ff9-102a-ac6d-e4aebca50425/ee090372-8a63-44d7-b163-306184b9d293/File/cde43891991f76a5e7df17ac6d373aff/mysql_logo_png_transparent.png" alt="MySQL" height="60" style="vertical-align:top; margin:4px">  
 <img src="https://toppng.com/uploads/preview/9kib-354x415-unnamed-mongodb-logo-sv-11562860723mgempnmrq3.png" alt="MongoDB" height="60" style="vertical-align:top; margin:4px">
-<img src="https://spng.pngfind.com/pngs/s/430-4309574_mongoose-js-logo-hd-png-download.png" alt="Mongoose" height="60" style="vertical-align:top; margin:4px">  
+<img src="https://pbs.twimg.com/profile_images/946432748276740096/0TXzZU7W_400x400.jpg" alt="Mongoose" height="60" style="vertical-align:top; margin:4px">  
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" alt="Linux" height="60" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git" height="60" style="vertical-align:top; margin:4px"> 
-<img src="https://p7.hiclipart.com/preview/978/337/286/n-windows-8-computer-icons-microsoft-microsoft.jpg" alt="Windows" height="60" style="vertical-align:top; margin:4px">   
+<img src="https://www.freeiconspng.com/thumbs/windows-icon-png/system-windows-icon-png-4.png" alt="Windows" height="60" style="vertical-align:top; margin:4px">   
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="60" style="vertical-align:top; margin:4px"> 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/IntelliJ_IDEA_Logo.svg/1024px-IntelliJ_IDEA_Logo.svg.png" alt="IntelliJ Idea" height="60" style="vertical-align:top; margin:4px"> 
 </p>
