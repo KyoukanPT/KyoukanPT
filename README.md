@@ -34,10 +34,10 @@
 <img src="https://cdn.freebiesupply.com/logos/large/2x/nodejs-1-logo-png-transparent.png" alt="Node" height="70" style="vertical-align:top; margin:4px">&nbsp; &nbsp;
 <img src="https://fd-development.com/images/expressjs.png" alt="Express" height="70" width="100" style="vertical-align:top; margin:4px">&nbsp; 
 <img src="https://cdn.app.compendium.com/uploads/user/e7c690e8-6ff9-102a-ac6d-e4aebca50425/ee090372-8a63-44d7-b163-306184b9d293/File/cde43891991f76a5e7df17ac6d373aff/mysql_logo_png_transparent.png" alt="MySQL" height="70" style="vertical-align:top; margin:4px">&nbsp;
-<img src="https://cdn.app.compendium.com/uploads/user/e7c690e8-6ff9-102a-ac6d-e4aebca50425/f4a5b21d-66fa-4885-92bf-c4e81c06d916/Image/e5eee315a17de0d7f56117077eb71fa9/mongo.png" alt="MongoDB" height="70" width="80" style="vertical-align:top; margin:4px">&nbsp;
+<img src="https://cdn.app.compendium.com/uploads/user/e7c690e8-6ff9-102a-ac6d-e4aebca50425/f4a5b21d-66fa-4885-92bf-c4e81c06d916/Image/e5eee315a17de0d7f56117077eb71fa9/mongo.png" alt="MongoDB" height="70" width="70" style="vertical-align:top; margin:4px">&nbsp;
 <img src="https://i.ibb.co/y8kbJhK/687474703a2f2f7777772e6572696b61736c616e642e636f6d2f7374617469632f696d616765732f6d6f6e676f6f73652e70.png" alt="Mongoose" height="70" style="vertical-align:top; margin:4px">&nbsp; 
-<img src="https://www.clipartmax.com/png/middle/218-2181371_logo-git-git-icon.png" alt="Git" height="70" style="vertical-align:top; margin:4px">&nbsp; 
-<img src="https://www.pngfind.com/pngs/m/74-745175_ubuntu-logo-white-png-transparent-png.png" alt="Ubuntu" height="70" style="vertical-align:top; margin:4px">&nbsp;
+<img src="https://i.ibb.co/JBmpvyt/68747470733a2f2f7777772e636c69706172746d61782e636f6d2f706e672f6d6964646c652f3231382d323138313337315f.png" alt="Git" height="70" style="vertical-align:top; margin:4px">&nbsp; 
+<img src="https://banner2.cleanpng.com/20180408/xlw/kisspng-ubuntu-linux-distribution-long-term-support-canoni-linux-5aca4e1926d683.7524108215232077051591.jpg" alt="Ubuntu" height="70" style="vertical-align:top; margin:4px">&nbsp;
 <img src="https://www.freeiconspng.com/thumbs/windows-icon-png/system-windows-icon-png-4.png" alt="Windows" height="70" style="vertical-align:top; margin:4px">&nbsp;   
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="70" style="vertical-align:top; margin:4px">&nbsp; &nbsp; 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/IntelliJ_IDEA_Logo.svg/1024px-IntelliJ_IDEA_Logo.svg.png" alt="IntelliJ Idea" height="70" style="vertical-align:top; margin:4px">&nbsp; 
