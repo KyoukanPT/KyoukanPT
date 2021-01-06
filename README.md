@@ -5,10 +5,11 @@
 [![Github](https://img.shields.io/github/followers/KyoukanPT?label=Follow&style=social)](https://github.com/KyoukanPT)
 
 🔭 I’m currently working on some personal Web Development projects.<br>
-🌱 I’m currently learning React.<br>
-👯 I’m looking to collaborate with anyone on any project.<br>
-💬 Ask me about anything<br>
-⚡ Fun fact: I love playing football (soccer) and computer games.
+🌱 Learning React.<br>
+👯 I’m looking to collaborate on any project.<br>
+💬 Feel free to ask me questions.<br>
+⚡ Fun fact: I love playing football (soccer) and computer games.<br>
+🇯🇵 Love the Japanese culture. Visiting Japan is on my bucket list. 
 
 <br />
 
