@@ -31,14 +31,14 @@
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap" height="60" style="vertical-align:top; margin:4px">
 <img src="https://cdn.iconscout.com/icon/free/png-512/jquery-10-1175155.png" alt="JQuery" height="60" style="vertical-align:top; margin:4px"> 
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React" height="60" style="vertical-align:top; margin:4px">
-<img src="https://resizeimage.net/viewimg/kb8ronACSXcG71iU/GtIyz/1280px-node-js_logo-svg.png" alt="Node" height="60" style="vertical-align:top; margin:4px"> 
+<img src="https://cdn.freebiesupply.com/logos/large/2x/nodejs-1-logo-png-transparent.png" alt="Node" height="60" style="vertical-align:top; margin:4px"> 
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" alt="Express" height="60" style="vertical-align:top; margin:4px"> 
-<img src="https://cdn.worldvectorlogo.com/logos/mysql-5.svg" alt="MySQL" height="60" style="vertical-align:top; margin:4px">  
-<img src="https://cdn.iconscout.com/icon/free/png-512/mongodb-226029.png" alt="MongoDB" height="60" style="vertical-align:top; margin:4px">
-<img src="https://pbs.twimg.com/profile_images/946432748276740096/0TXzZU7W.jpg" alt="Mongoose" height="60" style="vertical-align:top; margin:4px">  
+<img src="https://img1.pnghut.com/5/20/13/z8Ef2bGSzE/mysql-cluster-text-computer-servers-area-logo.jpg" alt="MySQL" height="60" style="vertical-align:top; margin:4px">  
+<img src="https://toppng.com/uploads/preview/9kib-354x415-unnamed-mongodb-logo-sv-11562860723mgempnmrq3.png" alt="MongoDB" height="60" style="vertical-align:top; margin:4px">
+<img src="https://spng.pngfind.com/pngs/s/430-4309574_mongoose-js-logo-hd-png-download.png" alt="Mongoose" height="60" style="vertical-align:top; margin:4px">  
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" alt="Linux" height="60" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git" height="60" style="vertical-align:top; margin:4px"> 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Windows_logo_-_2012.svg/600px-Windows_logo_-_2012.svg.png" alt="Windows" height="60" style="vertical-align:top; margin:4px">   
+<img src="https://p7.hiclipart.com/preview/978/337/286/n-windows-8-computer-icons-microsoft-microsoft.jpg" alt="Windows" height="60" style="vertical-align:top; margin:4px">   
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="60" style="vertical-align:top; margin:4px"> 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/IntelliJ_IDEA_Logo.svg/1024px-IntelliJ_IDEA_Logo.svg.png" alt="IntelliJ Idea" height="60" style="vertical-align:top; margin:4px"> 
 </p>
