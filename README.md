@@ -8,8 +8,8 @@
 🌱 Learning React.<br>
 👯 I’m looking to collaborate on any project.<br>
 💬 Feel free to ask me questions.<br>
-⚡ Fun fact: I love playing football (soccer) and computer games.<br>
-🇯🇵 Love the Japanese culture. 
+🕹️ I love playing computer games.<br>
+🇯🇵 Visiting Japan is on my bucket list. 
 
 <br />
 
