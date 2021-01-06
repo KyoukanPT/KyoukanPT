@@ -33,11 +33,11 @@
 <img src="https://img.icons8.com/color/452/npm.png" alt="Npm" height="70" width="100" padding="5px" style="vertical-align:top; margin:4px">&nbsp;  
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React" height="70" style="vertical-align:top; margin:4px">&nbsp;
 <img src="https://cdn.freebiesupply.com/logos/large/2x/nodejs-1-logo-png-transparent.png" alt="Node" height="70" style="vertical-align:top; margin:4px">&nbsp; &nbsp;
-<img src="https://fd-development.com/images/expressjs.png" alt="Express" height="70" width="100" style="vertical-align:top; margin:4px">&nbsp; 
+<img src="https://fd-development.com/images/expressjs.png" alt="Express" height="70" width="100" padding="10px" style="vertical-align:top; margin:4px">&nbsp; 
 <img src="https://cdn.app.compendium.com/uploads/user/e7c690e8-6ff9-102a-ac6d-e4aebca50425/ee090372-8a63-44d7-b163-306184b9d293/File/cde43891991f76a5e7df17ac6d373aff/mysql_logo_png_transparent.png" alt="MySQL" height="70" style="vertical-align:top; margin:4px">&nbsp;
-<img src="https://cdn.app.compendium.com/uploads/user/e7c690e8-6ff9-102a-ac6d-e4aebca50425/f4a5b21d-66fa-4885-92bf-c4e81c06d916/Image/e5eee315a17de0d7f56117077eb71fa9/mongo.png" alt="MongoDB" height="70" width="70" style="vertical-align:top; margin:4px">&nbsp;
-<img src="https://i.ibb.co/y8kbJhK/687474703a2f2f7777772e6572696b61736c616e642e636f6d2f7374617469632f696d616765732f6d6f6e676f6f73652e70.png" alt="Mongoose" height="70" width="80" padding="5px" style="vertical-align:top; margin:4px">&nbsp; 
-<img src="https://i.pinimg.com/originals/6b/a5/e8/6ba5e8c2a205b64cbfdf5b25bd9e4c22.png" alt="Git" height="70" style="vertical-align:top; margin:4px">&nbsp; 
+<img src="https://cdn.app.compendium.com/uploads/user/e7c690e8-6ff9-102a-ac6d-e4aebca50425/f4a5b21d-66fa-4885-92bf-c4e81c06d916/Image/e5eee315a17de0d7f56117077eb71fa9/mongo.png" alt="MongoDB" height="70" width="70" padding="10px" style="vertical-align:top; margin:4px">&nbsp;
+<img src="https://i.ibb.co/y8kbJhK/687474703a2f2f7777772e6572696b61736c616e642e636f6d2f7374617469632f696d616765732f6d6f6e676f6f73652e70.png" alt="Mongoose" height="70" width="80" padding="10px" style="vertical-align:top; margin:4px">&nbsp; 
+<img src="https://i.pinimg.com/originals/6b/a5/e8/6ba5e8c2a205b64cbfdf5b25bd9e4c22.png" alt="Git" height="70" padding="10px" style="vertical-align:top; margin:4px">&nbsp; 
 <img src="https://i.ibb.co/wyp9vDF/kisspng-ubuntu-linux-distribution-long-term-support-canoni-linux-5aca4e1926d683-75241082152320770515.png" alt="Ubuntu" height="70" style="vertical-align:top; margin:4px">&nbsp;
 <img src="https://www.freeiconspng.com/thumbs/windows-icon-png/system-windows-icon-png-4.png" alt="Windows" height="70" style="vertical-align:top; margin:4px">&nbsp;   
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="70" style="vertical-align:top; margin:4px">&nbsp; &nbsp; 
