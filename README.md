@@ -1,6 +1,4 @@
-### Hi there 👋
-
-Hi there 👋 I'm Tiago 😀
+### Hi there 👋 I'm Tiago 😀
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=KyoukanPT.KyoukanPT)
 
