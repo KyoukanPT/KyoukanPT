@@ -10,6 +10,8 @@
 💬 Ask me about anything<br>
 ⚡ Fun fact: I love playing football (soccer) and computer games.
 
+<br />
+
 ## ✉️ Find me on:
 
 <p align="center">
