@@ -36,7 +36,7 @@
 <img src="https://cdn.app.compendium.com/uploads/user/e7c690e8-6ff9-102a-ac6d-e4aebca50425/ee090372-8a63-44d7-b163-306184b9d293/File/cde43891991f76a5e7df17ac6d373aff/mysql_logo_png_transparent.png" alt="MySQL" height="70" style="vertical-align:top; margin:4px">&nbsp;
 <img src="https://cdn.app.compendium.com/uploads/user/e7c690e8-6ff9-102a-ac6d-e4aebca50425/f4a5b21d-66fa-4885-92bf-c4e81c06d916/Image/e5eee315a17de0d7f56117077eb71fa9/mongo.png" alt="MongoDB" height="70" width="70" style="vertical-align:top; margin:4px">&nbsp;
 <img src="https://i.ibb.co/y8kbJhK/687474703a2f2f7777772e6572696b61736c616e642e636f6d2f7374617469632f696d616765732f6d6f6e676f6f73652e70.png" alt="Mongoose" height="70" width="80" style="vertical-align:top; margin:4px">&nbsp; 
-<img src="https://assets.stickpng.com/images/5847f981cef1014c0b5e48be.png" alt="Git" height="70" style="vertical-align:top; margin:4px">&nbsp; 
+<img src="https://img1.gratispng.com/20180824/gwx/kisspng-computer-icons-pro-git-portable-network-graphics-i-git-book-pro-git-app-app-5b80546bc0a4c5.2332101615351368757891.jpg" alt="Git" height="70" style="vertical-align:top; margin:4px">&nbsp; 
 <img src="https://i.ibb.co/wyp9vDF/kisspng-ubuntu-linux-distribution-long-term-support-canoni-linux-5aca4e1926d683-75241082152320770515.png" alt="Ubuntu" height="70" style="vertical-align:top; margin:4px">&nbsp;
 <img src="https://www.freeiconspng.com/thumbs/windows-icon-png/system-windows-icon-png-4.png" alt="Windows" height="70" style="vertical-align:top; margin:4px">&nbsp;   
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="70" style="vertical-align:top; margin:4px">&nbsp; &nbsp; 
