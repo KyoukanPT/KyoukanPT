@@ -38,7 +38,7 @@
 <img src="https://cdn.app.compendium.com/uploads/user/e7c690e8-6ff9-102a-ac6d-e4aebca50425/ee090372-8a63-44d7-b163-306184b9d293/File/cde43891991f76a5e7df17ac6d373aff/mysql_logo_png_transparent.png" alt="MySQL" height="70" style="vertical-align:top; margin:4px">&nbsp;
 <img src="https://i.ibb.co/4d6t1PX/mongodb-logo-removebg-preview.png" alt="MongoDB" height="80" width="70" style="vertical-align:top; margin:4px">&nbsp;
 <img src="https://i.ibb.co/WDChqGM/Screenshot-2-removebg-preview.png" alt="Mongoose" height="50" width="140" style="vertical-align:top; margin:4px">&nbsp; 
-<img src="https://i.pinimg.com/originals/6b/a5/e8/6ba5e8c2a205b64cbfdf5b25bd9e4c22.png" alt="Git" height="80" width="80" style="vertical-align:top; margin:4px">&nbsp; 
+<img src="https://i.pinimg.com/originals/6b/a5/e8/6ba5e8c2a205b64cbfdf5b25bd9e4c22.png" alt="Git" height="80" width="80" style="vertical-align:top; margin:4px">&nbsp; &nbsp;
 <img src="https://www.unixmen.com/wp-content/uploads/2014/03/ubuntu-logo.png" alt="Ubuntu" height="60" style="vertical-align:top;">&nbsp;
 <img src="https://www.freeiconspng.com/thumbs/windows-icon-png/system-windows-icon-png-4.png" alt="Windows" height="70" style="vertical-align:top;">&nbsp;   
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="60" width="60" style="vertical-align:top; margin:4px">&nbsp; &nbsp; 
