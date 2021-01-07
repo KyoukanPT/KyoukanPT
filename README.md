@@ -33,6 +33,7 @@
 <img src="https://img.icons8.com/color/452/npm.png" alt="Npm" height="70" width="100" style="vertical-align:top; margin:4px">&nbsp;  
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React" height="70" style="vertical-align:top; margin:4px">&nbsp;
 <img src="https://cdn.freebiesupply.com/logos/large/2x/nodejs-1-logo-png-transparent.png" alt="Node" height="70" style="vertical-align:top; margin:4px">&nbsp; &nbsp;
+<img src="https://www.pngfind.com/pngs/m/411-4116494_nodemon-vector-nodemon-js-hd-png-download.png" alt="Nodemon" height="70" style="vertical-align:top; margin:4px">&nbsp; &nbsp; 
 <img src="https://i.ibb.co/Xtrgx6f/expressjs-removebg-preview.png" alt="Express" height="70" width="120" style="vertical-align:top; margin:4px">&nbsp; 
 <img src="https://cdn.app.compendium.com/uploads/user/e7c690e8-6ff9-102a-ac6d-e4aebca50425/ee090372-8a63-44d7-b163-306184b9d293/File/cde43891991f76a5e7df17ac6d373aff/mysql_logo_png_transparent.png" alt="MySQL" height="70" style="vertical-align:top; margin:4px">&nbsp;
 <img src="https://i.ibb.co/4d6t1PX/mongodb-logo-removebg-preview.png" alt="MongoDB" height="70" style="vertical-align:top; margin:4px">&nbsp;
