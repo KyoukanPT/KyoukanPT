@@ -9,7 +9,7 @@
 👯 I’m looking to collaborate on any project.<br>
 💬 Feel free to ask me questions.<br>
 🕹️ I love playing computer games.<br>
-🇯🇵 Visiting Japan is on my bucket list. 
+🗾 Visiting Japan is on my bucket list. 
 
 <br />
 
