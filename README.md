@@ -1,8 +1,6 @@
 ### Hi there 👋 I'm Tiago 😀
 
-![](https://visitor-badge.laobi.icu/badge?page_id=KyoukanPT.KyoukanPT)
-
-[![Github](https://img.shields.io/github/followers/KyoukanPT?label=Follow&style=social)](https://github.com/KyoukanPT)
+![](https://visitor-badge.laobi.icu/badge?page_id=KyoukanPT.KyoukanPT) [![Github](https://img.shields.io/github/followers/KyoukanPT?label=Follow&style=social)](https://github.com/KyoukanPT)
 
 🔭 I’m currently working on some personal Web Development projects.<br>
 🌱 Learning ReactJS.<br>
