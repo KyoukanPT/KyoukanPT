@@ -2,11 +2,11 @@
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=KyoukanPT.KyoukanPT) [![Github](https://img.shields.io/github/followers/KyoukanPT?label=Follow&style=social)](https://github.com/KyoukanPT)
 
-🔭 I’m currently working on some personal Web Development projects.<br>
-🌱 Learning ReactJS.<br>
-👯 I’m looking to collaborate on any project.<br>
+💻 I’m currently working on some personal Web Development projects.<br>
+🎓 Learning ReactJS.<br>
+🤝 I’m looking to collaborate on any project.<br>
 💬 Feel free to ask me questions.<br>
-🕹️ I love playing video games.<br>
+🎮 I love playing video games.<br>
 🗾 Visiting Japan is on my bucket list. 
 
 <br />
