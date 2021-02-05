@@ -39,9 +39,9 @@
 <img src="https://i.pinimg.com/originals/6b/a5/e8/6ba5e8c2a205b64cbfdf5b25bd9e4c22.png" alt="Git" height="80" width="80" style="vertical-align:top; margin:4px">&nbsp; &nbsp;
 <img src="https://www.unixmen.com/wp-content/uploads/2014/03/ubuntu-logo.png" alt="Ubuntu" height="60" style="vertical-align:top;">&nbsp;
 <img src="https://www.freeiconspng.com/thumbs/windows-icon-png/system-windows-icon-png-4.png" alt="Windows" height="70" style="vertical-align:top;">&nbsp;
-<img src="https://banner2.cleanpng.com/20180824/jtl/kisspng-computer-icons-logo-portable-network-graphics-clip-icons-for-free-iconza-circle-social-5b7fe46b0bac53.1999041115351082030478.jpg" alt="Github" height="70" style="vertical-align:top;">&nbsp;
-<img src="https://icon2.cleanpng.com/20180406/cgw/kisspng-gitlab-computer-icons-github-issue-tracking-system-star-fox-5ac816890c45a4.9936616315230624090503.jpg" alt="Github" height="70" style="vertical-align:top;">&nbsp;
-<img src="https://dashboard.snapcraft.io/site_media/appmedia/2017/09/heroku.png" alt="Heroku" height="70" style="vertical-align:top;">&nbsp;
+<img src="https://ibb.co/HDgcyss" alt="Github" height="70" style="vertical-align:top;">&nbsp;
+<img src="https://ibb.co/6Yghqq9" alt="Gitlab" height="70" style="vertical-align:top;">&nbsp;
+<img src="https://ibb.co/nrHf1zL" alt="Heroku" height="70" style="vertical-align:top;">&nbsp;
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="60" width="60" style="vertical-align:top; margin:4px">&nbsp; &nbsp; 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/IntelliJ_IDEA_Logo.svg/1024px-IntelliJ_IDEA_Logo.svg.png" alt="IntelliJ Idea" height="60" width="60" style="vertical-align:top; margin:4px">&nbsp; 
 </p>
