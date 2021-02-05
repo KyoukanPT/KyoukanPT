@@ -41,7 +41,7 @@
 <img src="https://www.freeiconspng.com/thumbs/windows-icon-png/system-windows-icon-png-4.png" alt="Windows" height="70" style="vertical-align:top;">&nbsp;
 <img src="https://i.ibb.co/WWKrXww/github-removebg-preview.png" alt="Github" height="70" style="vertical-align:top;">&nbsp;
 <img src="https://i.ibb.co/kKQnPPb/gitlab-removebg-preview.png" alt="Gitlab" height="70" style="vertical-align:top;">&nbsp;
-<img src="https://i.ibb.co/ZdnKgWM/heroku-removebg-preview.png" alt="Heroku style="vertical-align:top;">&nbsp;
+<img src="https://i.ibb.co/ZdnKgWM/heroku-removebg-preview.png" alt="Heroku" style="vertical-align:top;">&nbsp;
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="60" width="60" style="vertical-align:top; margin:4px">&nbsp; &nbsp; 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/IntelliJ_IDEA_Logo.svg/1024px-IntelliJ_IDEA_Logo.svg.png" alt="IntelliJ Idea" height="60" width="60" style="vertical-align:top; margin:4px">&nbsp; 
 </p>
