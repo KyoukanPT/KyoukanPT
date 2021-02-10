@@ -32,9 +32,9 @@
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React" height="70" style="vertical-align:top; margin:4px">&nbsp;
 <img src="https://cdn.freebiesupply.com/logos/large/2x/nodejs-1-logo-png-transparent.png" alt="Node" height="70" style="vertical-align:top; margin:4px">&nbsp; &nbsp;
 <img src="https://cdn.iconscout.com/icon/free/png-256/nodemon-226039.png" alt="Nodemon" height="60" width="60" style="vertical-align:top; margin:4px">&nbsp; 
-<img src="https://e7.pngegg.com/pngimages/545/451/png-clipart-node-js-express-js-javascript-solution-stack-web-application-others-angle-text.png" alt="Express" height="70" width="120" style="vertical-align:top; margin:4px">&nbsp; 
+<img src="https://e7.pngegg.com/pngimages/545/451/png-clipart-node-js-express-js-javascript-solution-stack-web-application-others-angle-text.png" alt="Express" height="60" width="120" style="vertical-align:top; margin:4px">&nbsp; 
 <img src="https://kubik-rubik.de/images/joomla-extensions/ejs-logo-b300.png" alt="EJS" height="60" width="100" style="vertical-align:top; margin:4px">&nbsp;  
-<img src="https://cdn.app.compendium.com/uploads/user/e7c690e8-6ff9-102a-ac6d-e4aebca50425/ee090372-8a63-44d7-b163-306184b9d293/File/cde43891991f76a5e7df17ac6d373aff/mysql_logo_png_transparent.png" alt="MySQL" height="70" style="vertical-align:top; margin:4px">&nbsp;
+<img src="https://cdn.app.compendium.com/uploads/user/e7c690e8-6ff9-102a-ac6d-e4aebca50425/ee090372-8a63-44d7-b163-306184b9d293/File/cde43891991f76a5e7df17ac6d373aff/mysql_logo_png_transparent.png" alt="EJS" height="70" style="vertical-align:top; margin:4px">&nbsp;
 <img src="https://i.ibb.co/4d6t1PX/mongodb-logo-removebg-preview.png" alt="MongoDB" height="80" width="70" style="vertical-align:top; margin:4px">&nbsp;
 <img src="https://i.ibb.co/WDChqGM/Screenshot-2-removebg-preview.png" alt="Mongoose" height="50" width="140" style="vertical-align:top; margin:4px">&nbsp; 
 <img src="https://i.pinimg.com/originals/6b/a5/e8/6ba5e8c2a205b64cbfdf5b25bd9e4c22.png" alt="Git" height="80" width="80" style="vertical-align:top; margin:4px">&nbsp; &nbsp;
