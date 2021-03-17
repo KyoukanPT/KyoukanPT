@@ -45,7 +45,7 @@
 <img src="https://i.ibb.co/kKQnPPb/gitlab-removebg-preview.png" alt="Gitlab" height="70" style="vertical-align:top;">&nbsp;
 <img src="https://i.ibb.co/ZdnKgWM/heroku-removebg-preview.png" alt="Heroku" height="60" style="vertical-align:top;">&nbsp;
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="60" width="60" style="vertical-align:top; margin:4px">&nbsp; &nbsp; 
-<img src="https://www.reshiftsecurity.com/wp-content/uploads/2020/06/IntelliJIDEA_icon-768x397.png" alt="IntelliJ Idea" height="60" width="110" style="vertical-align:top; margin:4px">&nbsp; 
+<img src="https://www.reshiftsecurity.com/wp-content/uploads/2020/06/IntelliJIDEA_icon-768x397.png" alt="IntelliJ Idea" height="60" width="120" style="vertical-align:top; margin:4px">&nbsp; 
 </p>
 
 <br />
