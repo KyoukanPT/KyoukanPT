@@ -45,7 +45,7 @@
 <img src="https://i.ibb.co/kKQnPPb/gitlab-removebg-preview.png" alt="Gitlab" height="70" style="vertical-align:top;">&nbsp;
 <img src="https://i.ibb.co/ZdnKgWM/heroku-removebg-preview.png" alt="Heroku" height="60" style="vertical-align:top;">&nbsp; &nbsp;
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="55" width="55" style="vertical-align:top; margin:4px">&nbsp;
-<img src="https://dashboard.snapcraft.io/site_media/appmedia/2018/08/icon_CE_256_2Qe5uEl.png" alt="IntelliJ Idea" height="60" width="60" style="vertical-align:top; margin:4px">&nbsp; 
+<img src="https://camo.githubusercontent.com/042d62bcea43528c29c61659fc61de87e320a368926ac7bf7d6689feb009291d/68747470733a2f2f63646e2e737667706f726e2e636f6d2f6c6f676f732f696e74656c6c696a2d696465612e737667" alt="IntelliJ Idea" height="60" width="60" style="vertical-align:top; margin:4px">&nbsp; 
 </p>
 
 <br />
