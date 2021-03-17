@@ -45,7 +45,7 @@
 <img src="https://i.ibb.co/kKQnPPb/gitlab-removebg-preview.png" alt="Gitlab" height="70" style="vertical-align:top;">&nbsp;
 <img src="https://i.ibb.co/ZdnKgWM/heroku-removebg-preview.png" alt="Heroku" height="60" style="vertical-align:top;">&nbsp; &nbsp;
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="60" width="60" style="vertical-align:top; margin:4px">&nbsp;
-<img src="https://ossmalta.eu/wp-content/uploads/2019/07/intellij-idea-ue-icon.png" alt="IntelliJ Idea" height="150" width="150" style="vertical-align:top; margin:4px">&nbsp; 
+<img src="https://ossmalta.eu/wp-content/uploads/2019/07/intellij-idea-ue-icon.png" alt="IntelliJ Idea" height="80" width="10" style="vertical-align:top; margin:4px">&nbsp; 
 </p>
 
 <br />
