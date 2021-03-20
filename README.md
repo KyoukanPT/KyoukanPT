@@ -41,7 +41,7 @@
 <img src="https://windows-cdn.softpedia.com/screenshots/thumbs/Portable-Robo-3T-thumb.png" alt="Robo 3T" height="70" style="vertical-align:top;">&nbsp; &nbsp;
 <img src="https://i.pinimg.com/originals/6b/a5/e8/6ba5e8c2a205b64cbfdf5b25bd9e4c22.png" alt="Git" height="80" width="80" style="vertical-align:top; margin:4px">&nbsp; &nbsp;
 <img src="https://www.unixmen.com/wp-content/uploads/2014/03/ubuntu-logo.png" alt="Ubuntu" height="60" style="vertical-align:top;">&nbsp;
-<img src="https://www.vhv.rs/dpng/d/462-4626713_windows-start-button-icon-png-transparent-background-windows.png" alt="Windows" height="70" style="vertical-align:top;">&nbsp;
+<img src="https://www.freeiconspng.com/thumbs/windows-icon-png/system-windows-icon-png-4.png" alt="Windows" height="70" style="vertical-align:top;">&nbsp;
 <img src="https://i.ibb.co/WWKrXww/github-removebg-preview.png" alt="Github" height="70" style="vertical-align:top;">&nbsp;
 <img src="https://i.ibb.co/kKQnPPb/gitlab-removebg-preview.png" alt="Gitlab" height="70" style="vertical-align:top;">&nbsp;
 <img src="https://i.ibb.co/ZdnKgWM/heroku-removebg-preview.png" alt="Heroku" height="60" style="vertical-align:top;">&nbsp; &nbsp;
