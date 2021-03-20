@@ -37,15 +37,15 @@
 <img src="https://cdn.iconscout.com/icon/free/png-256/lodash-283360.png" alt="LoDash" height="60" style="vertical-align:top; margin:4px">&nbsp;
 <img src="https://cdn.app.compendium.com/uploads/user/e7c690e8-6ff9-102a-ac6d-e4aebca50425/ee090372-8a63-44d7-b163-306184b9d293/File/cde43891991f76a5e7df17ac6d373aff/mysql_logo_png_transparent.png" alt="MySQL" height="70" style="vertical-align:top; margin:4px">&nbsp;
 <img src="https://img.icons8.com/color/452/mongodb.png" alt="MongoDB" height="70" style="vertical-align:top; margin:4px">&nbsp;
-<img src="https://i.ibb.co/WDChqGM/Screenshot-2-removebg-preview.png" alt="Mongoose" height="50" width="140" style="vertical-align:top; margin:4px">&nbsp; 
+<img src="https://i.ibb.co/WDChqGM/Screenshot-2-removebg-preview.png" alt="Mongoose" height="50" width="140" style="vertical-align:top; margin:4px">&nbsp;
+<img src="https://windows-cdn.softpedia.com/screenshots/thumbs/Portable-Robo-3T-thumb.png" alt="Robo 3T" height="70" style="vertical-align:top;">&nbsp; &nbsp;
 <img src="https://i.pinimg.com/originals/6b/a5/e8/6ba5e8c2a205b64cbfdf5b25bd9e4c22.png" alt="Git" height="80" width="80" style="vertical-align:top; margin:4px">&nbsp; &nbsp;
 <img src="https://www.unixmen.com/wp-content/uploads/2014/03/ubuntu-logo.png" alt="Ubuntu" height="60" style="vertical-align:top;">&nbsp;
 <img src="https://www.freeiconspng.com/thumbs/windows-icon-png/system-windows-icon-png-4.png" alt="Windows" height="70" style="vertical-align:top;">&nbsp;
 <img src="https://i.ibb.co/WWKrXww/github-removebg-preview.png" alt="Github" height="70" style="vertical-align:top;">&nbsp;
 <img src="https://i.ibb.co/kKQnPPb/gitlab-removebg-preview.png" alt="Gitlab" height="70" style="vertical-align:top;">&nbsp;
 <img src="https://i.ibb.co/ZdnKgWM/heroku-removebg-preview.png" alt="Heroku" height="60" style="vertical-align:top;">&nbsp; &nbsp;
- <img src="https://user-images.githubusercontent.com/7853266/44114706-9c72dd08-9fd1-11e8-8d9d-6d9d651c75ad.png" alt="Postman" height="60" style="vertical-align:top;">&nbsp; &nbsp;
- <img src="https://windows-cdn.softpedia.com/screenshots/thumbs/Portable-Robo-3T-thumb.png" alt="Robo 3T" height="60" style="vertical-align:top;">&nbsp; &nbsp;
+ <img src="https://user-images.githubusercontent.com/7853266/44114706-9c72dd08-9fd1-11e8-8d9d-6d9d651c75ad.png" alt="Postman" height="70" style="vertical-align:top;">&nbsp; &nbsp;
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="60" width="60" style="vertical-align:top; margin:4px">&nbsp; &nbsp;
 <img src="https://camo.githubusercontent.com/042d62bcea43528c29c61659fc61de87e320a368926ac7bf7d6689feb009291d/68747470733a2f2f63646e2e737667706f726e2e636f6d2f6c6f676f732f696e74656c6c696a2d696465612e737667" alt="IntelliJ Idea" height="60" width="60" style="vertical-align:top; margin:4px">&nbsp; 
 </p>
