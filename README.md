@@ -38,7 +38,7 @@
 <img src="https://cdn.app.compendium.com/uploads/user/e7c690e8-6ff9-102a-ac6d-e4aebca50425/ee090372-8a63-44d7-b163-306184b9d293/File/cde43891991f76a5e7df17ac6d373aff/mysql_logo_png_transparent.png" alt="MySQL" height="70" style="vertical-align:top; margin:4px">
 <img src="https://img.icons8.com/color/452/mongodb.png" alt="MongoDB" height="70" style="vertical-align:top; margin:4px">&nbsp;
 <img src="https://i.ibb.co/WDChqGM/Screenshot-2-removebg-preview.png" alt="Mongoose" height="50" width="140" style="vertical-align:top; margin:4px">
-<img src="https://i.ibb.co/fvpBRHP/robo3-T-icon.png" alt="Robo 3T" height="70" style="vertical-align:top;">&nbsp;
+<img src="https://i.ibb.co/fvpBRHP/robo3-T-icon.png" alt="Robo 3T" height="70" style="vertical-align:top;">&nbsp; &nbsp;
 <img src="https://i.pinimg.com/originals/6b/a5/e8/6ba5e8c2a205b64cbfdf5b25bd9e4c22.png" alt="Git" height="80" width="80" style="vertical-align:top; margin:4px">&nbsp; &nbsp;
 <img src="https://www.unixmen.com/wp-content/uploads/2014/03/ubuntu-logo.png" alt="Ubuntu" height="60" style="vertical-align:top;">&nbsp; &nbsp;
 <img src="https://seeklogo.com/images/W/windows-10-icon-logo-5BC5C69712-seeklogo.com.png" alt="Windows" height="60" style="vertical-align:top;">&nbsp; &nbsp;
