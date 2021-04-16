@@ -15,7 +15,7 @@
 
  <a href="https://www.linkedin.com/in/tiagohenriquesilva/" target="_blank" rel="noopener noreferrer"> <img src="https://image.flaticon.com/icons/png/512/174/174857.png" alt="Linkedin" height="50" style="vertical-align:top; margin:4px;"></a>
  &nbsp;
- <a href="mailto: tiagohenrique_1988@hotmail.com" target="_blank" rel="noopener noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Outlook.com_icon.svg/1200px-Outlook.com_icon.svg.png" alt="Email" height="50" style="vertical-align:top; margin:4px;"></a>
+ <a href="mailto: tiagohenrique_1988@hotmail.com" target="_blank" rel="noopener noreferrer"> <img src="https://mpng.subpng.com/20180526/rep/kisspng-microsoft-outlook-outlook-com-hotmail-email-5b091b3376a9c2.9078576515273234434861.jpg" alt="Email" height="50" style="vertical-align:top; margin:4px;"></a>
 
 
 <br />
