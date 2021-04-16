@@ -13,9 +13,9 @@
 
 ## ✉️ Find me on:
 
- <a href="https://www.linkedin.com/in/tiagohenriquesilva/" target="_blank" rel="noopener noreferrer"> <img src="https://image.flaticon.com/icons/png/512/174/174857.png" alt="Linkedin" height="50" style="vertical-align:top; margin:4px;"></a>
+ <a href="https://www.linkedin.com/in/tiagohenriquesilva/" target="_blank" rel="noopener noreferrer"> <img src="https://image.flaticon.com/icons/png/512/174/174857.png" alt="Linkedin" height="51" style="vertical-align:top; margin:4px;"></a>
  &nbsp;
- <a href="mailto: tiagohenrique_1988@hotmail.com" target="_blank" rel="noopener noreferrer"> <img src="https://i.pinimg.com/originals/97/c4/18/97c418f388a3079c1b83959341795548.png" alt="Email" height="55" style="vertical-align:top; margin:4px;"></a>
+ <a href="mailto: tiagohenrique_1988@hotmail.com" target="_blank" rel="noopener noreferrer"> <img src="https://i.pinimg.com/originals/97/c4/18/97c418f388a3079c1b83959341795548.png" alt="Email" height="55" width="55" style="vertical-align:top; margin:4px;"></a>
 
 
 <br />
