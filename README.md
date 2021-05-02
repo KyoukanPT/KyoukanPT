@@ -29,7 +29,7 @@
 <img src="https://cdn.iconscout.com/icon/free/png-512/jquery-10-1175155.png" alt="JQuery" height="70" style="vertical-align:top; margin:4px">&nbsp; 
 <img src="https://img.icons8.com/color/452/npm.png" alt="Npm" height="70" width="100" style="vertical-align:top; margin:4px"> &nbsp;
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React" height="70" style="vertical-align:top; margin:4px">
-<img src="https://user-images.githubusercontent.com/56288/58110630-8a3c1080-7bb5-11e9-8f16-afa391dc4223.jpg" alt="BabelJS" height="60" style="vertical-align:top; margin:4px">&nbsp; &nbsp;
+<img src="https://i.ibb.co/vqYkws1/58110630-8a3c1080-7bb5-11e9-8f16-afa391dc4223-removebg-preview.png" alt="BabelJS" height="60" style="vertical-align:top; margin:4px">&nbsp; &nbsp;
 <img src="https://img.icons8.com/color/452/material-ui.png" alt="Material-UI" height="60" style="vertical-align:top; margin:4px">&nbsp; &nbsp;
 <img src="https://cdn.freebiesupply.com/logos/large/2x/nodejs-1-logo-png-transparent.png" alt="Node" height="70" style="vertical-align:top; margin:4px">&nbsp; &nbsp;
 <img src="https://cdn.iconscout.com/icon/free/png-256/nodemon-226039.png" alt="Nodemon" height="60" width="60" style="vertical-align:top; margin:4px">&nbsp; 
