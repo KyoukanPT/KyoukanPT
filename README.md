@@ -28,8 +28,8 @@
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap" height="60" width="60" style="vertical-align:top; margin:4px">&nbsp;
 <img src="https://cdn.iconscout.com/icon/free/png-512/jquery-10-1175155.png" alt="JQuery" height="70" style="vertical-align:top; margin:4px">&nbsp; 
 <img src="https://img.icons8.com/color/452/npm.png" alt="Npm" height="70" width="100" style="vertical-align:top; margin:4px">&nbsp;  
-<img src="https://user-images.githubusercontent.com/3025322/87547253-bf050400-c6a2-11ea-950a-280311bc6cc8.png" alt="React" height="70" style="vertical-align:top; margin:4px">&nbsp;
-<img src="https://cdn.worldvectorlogo.com/logos/babel-10.svg" alt="BabelJS" height="70" style="vertical-align:top; margin:4px">&nbsp; 
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png" alt="React" height="70" style="vertical-align:top; margin:4px">&nbsp;
+<img src="https://user-images.githubusercontent.com/3025322/87547253-bf050400-c6a2-11ea-950a-280311bc6cc8.png" alt="BabelJS" height="70" style="vertical-align:top; margin:4px">&nbsp; 
 <img src="https://cdn.freebiesupply.com/logos/large/2x/nodejs-1-logo-png-transparent.png" alt="Node" height="70" style="vertical-align:top; margin:4px">&nbsp; &nbsp;
 <img src="https://cdn.iconscout.com/icon/free/png-256/nodemon-226039.png" alt="Nodemon" height="60" width="60" style="vertical-align:top; margin:4px">&nbsp; 
 <img src="https://i.ibb.co/74ZtDSX/express-removebg-preview.png" alt="Express" height="60" width="130" style="vertical-align:top; margin:4px">&nbsp;  
