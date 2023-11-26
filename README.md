@@ -36,7 +36,7 @@
 <img src="https://i.ibb.co/74ZtDSX/express-removebg-preview.png" alt="Express" height="60" width="130" style="vertical-align:top; margin:4px">&nbsp;  
 <img src="https://kubik-rubik.de/images/joomla-extensions/ejs-logo-b300.png" alt="EJS" height="50" width="90" style="vertical-align:top; margin:4px">&nbsp; 
 <img src="https://cdn.iconscout.com/icon/free/png-256/lodash-283360.png" alt="LoDash" height="60" style="vertical-align:top; margin:4px">&nbsp;
-<img src="https://cdn.app.compendium.com/uploads/user/e7c690e8-6ff9-102a-ac6d-e4aebca50425/ee090372-8a63-44d7-b163-306184b9d293/File/cde43891991f76a5e7df17ac6d373aff/mysql_logo_png_transparent.png" alt="MySQL" height="70" style="vertical-align:top; margin:4px">
+<img src="https://upload.wikimedia.org/wikipedia/labs/8/8e/Mysql_logo.png" alt="MySQL" height="70" style="vertical-align:top; margin:4px">
 <img src="https://img.icons8.com/color/452/mongodb.png" alt="MongoDB" height="70" style="vertical-align:top; margin:4px">&nbsp;
 <img src="https://i.ibb.co/WDChqGM/Screenshot-2-removebg-preview.png" alt="Mongoose" height="50" width="140" style="vertical-align:top; margin:4px">
 <img src="https://i.ibb.co/fvpBRHP/robo3-T-icon.png" alt="Robo 3T" height="70" style="vertical-align:top;">&nbsp;
