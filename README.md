@@ -50,7 +50,7 @@
 <img src="https://i.ibb.co/ZdnKgWM/heroku-removebg-preview.png" alt="Heroku" height="60" style="vertical-align:top;">&nbsp; &nbsp;
  <img src="https://user-images.githubusercontent.com/7853266/44114706-9c72dd08-9fd1-11e8-8d9d-6d9d651c75ad.png" alt="Postman" height="65" style="vertical-align:top;">&nbsp; &nbsp;
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="60" width="60" style="vertical-align:top; margin:4px">&nbsp; &nbsp;
-<img src="https://logowik.com/content/uploads/images/intellij-idea286.logowik.com.webp" height="60" width="60" style="vertical-align:top; margin:4px">&nbsp; &nbsp;
+<img src="https://logowik.com/content/uploads/images/intellij-idea286.logowik.com.webp" height="80" width="80" style="vertical-align:top; margin:4px">&nbsp; &nbsp;
 <img src="https://media-01.imu.nl/storage/lowcode-experts.com/11828/outsystemsicon-260x260-1.png" alt="Outsystems" height="60" width="60" style="vertical-align:top; margin:4px">&nbsp;
 </p>
 
