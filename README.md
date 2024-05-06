@@ -39,7 +39,7 @@
 <img src="https://upload.wikimedia.org/wikipedia/labs/8/8e/Mysql_logo.png" alt="MySQL" height="70" style="vertical-align:top; margin:4px">&nbsp; &nbsp;
 <img src="https://img.icons8.com/color/452/mongodb.png" alt="MongoDB" height="70" style="vertical-align:top; margin:4px">&nbsp;
 <img src="https://i.ibb.co/WDChqGM/Screenshot-2-removebg-preview.png" alt="Mongoose" height="50" width="140" style="vertical-align:top; margin:4px">
-<img src="https://i.ibb.co/fvpBRHP/robo3-T-icon.png" alt="Robo 3T" height="70" style="vertical-align:top;">&nbsp;
+<img src="https://user-images.githubusercontent.com/12401985/69677316-60423a00-1081-11ea-9ec6-7334c0e491a5.png" alt="Robo 3T" height="70" style="vertical-align:top;">&nbsp;
 <img src="https://leolanchas.com/wp-content/uploads/2013/07/0d184ee3-fd8d-4b94-acf4-b4e686e57375.png" alt="Passport Js" height="70" style="vertical-align:top;">&nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Oauth_logo.svg/1200px-Oauth_logo.svg.png" alt="OAuth 2.0" height="70" style="vertical-align:top;">&nbsp;
 <img src="https://i.pinimg.com/originals/6b/a5/e8/6ba5e8c2a205b64cbfdf5b25bd9e4c22.png" alt="Git" height="80" width="80" style="vertical-align:top; margin:4px">&nbsp; &nbsp;
