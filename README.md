@@ -35,7 +35,7 @@
 <img src="https://cdn.iconscout.com/icon/free/png-256/nodemon-226039.png" alt="Nodemon" height="60" width="60" style="vertical-align:top; margin:4px">&nbsp; 
 <img src="https://i.ibb.co/74ZtDSX/express-removebg-preview.png" alt="Express" height="60" width="130" style="vertical-align:top; margin:4px">&nbsp;  
 <img src="https://kubik-rubik.de/images/joomla-extensions/ejs-logo-b300.png" alt="EJS" height="50" width="90" style="vertical-align:top; margin:4px">&nbsp; 
-<img src="https://logowik.com/content/uploads/images/axios3626.jpg" alt="Axios" height="70" width="110" style="vertical-align:top; margin:4px">&nbsp; 
+<img src="https://logowik.com/content/uploads/images/axios3626.jpg" alt="Axios" height="80" width="120" style="vertical-align:top; margin:4px">&nbsp; 
 <img src="https://cdn.iconscout.com/icon/free/png-256/lodash-283360.png" alt="LoDash" height="60" style="vertical-align:top; margin:4px">&nbsp; &nbsp; &nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/labs/8/8e/Mysql_logo.png" alt="MySQL" height="70" style="vertical-align:top; margin:4px">&nbsp; &nbsp;
 <img src="https://img.icons8.com/color/452/mongodb.png" alt="MongoDB" height="70" style="vertical-align:top; margin:4px">&nbsp;
