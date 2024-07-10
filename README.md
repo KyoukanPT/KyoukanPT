@@ -9,6 +9,8 @@
 🎮 I love playing video games.<br>
 🗾 Visiting Japan is on my bucket list. 
 
+<hr>
+
 <br />
 
 ## ✉️ Find me on:
