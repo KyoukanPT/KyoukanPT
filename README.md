@@ -11,14 +11,10 @@
 
 <hr>
 
-<br />
-
 ## ✉️ Find me on:
 
  <a href="https://www.linkedin.com/in/tiagohenriquesilva/" target="_blank" rel="noopener noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png" alt="Linkedin" height="51" style="vertical-align:top; margin:4px;"></a>
  <a href="mailto: tiagohenrique_1988@hotmail.com" target="_blank" rel="noopener noreferrer"> <img src="https://i.ibb.co/47KFrZH/outlook-removebg-preview.png" alt="Email" height="60" style="vertical-align:top; margin:4px;"></a>
-
- <br />
 
 <hr>
 
@@ -55,8 +51,6 @@
 <code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap" height="60" width="60"></code>
 
 <hr>
-
-<br />
 
 ## 🏆 My Github Stats:
 
