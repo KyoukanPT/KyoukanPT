@@ -19,20 +19,27 @@
 
 <br />
 
-## ![image](https://github.com/KyoukanPT/KyoukanPT/assets/59366068/39db413d-ca04-485f-be14-d4203e4db805)
- Programming Languages:
+## Programming Languages:
 <code><img src="https://images.vexels.com/media/users/3/166401/isolated/preview/b82aa7ac3f736dd78570dd3fa3fa9e24-java-programming-language-icon-by-vexels.png" alt="Java" height="70"></code>
 <code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="60" width="60"></code> 
 
+## Markup Languages and Templating Engines:
 
+<code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS" height="70"></code>
+<code><img src="https://kubik-rubik.de/images/joomla-extensions/ejs-logo-b300.png" alt="EJS" height="50" width="90"></code>
+<code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML" height="70"></code>
 
+## Databases:
+<code><img src="https://img.icons8.com/color/452/mongodb.png" alt="MongoDB" height="70"></code>
+<code><img src="https://upload.wikimedia.org/wikipedia/labs/8/8e/Mysql_logo.png" alt="MySQL" height="70"></code>
 
- <code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS" height="70" style="vertical-align:top; margin:4px"></code>
-<code><img src="https://kubik-rubik.de/images/joomla-extensions/ejs-logo-b300.png" alt="EJS" height="50" width="90" style="vertical-align:top; margin:4px"></code>
+## JavaScript Frameworks and Libraries:
 <code><img src="https://i.ibb.co/74ZtDSX/express-removebg-preview.png" alt="Express" height="60" width="130" style="vertical-align:top; margin:4px"></code>
+
+
 <code><img src="https://i.pinimg.com/originals/6b/a5/e8/6ba5e8c2a205b64cbfdf5b25bd9e4c22.png" alt="Git" height="80" width="80" style="vertical-align:top; margin:4px"></code> </code>
 <code><img src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" alt="Github" height="70" style="vertical-align:top;"></code>
-<code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML" height="70" style="vertical-align:top; margin:4px"></code>
+
 <code><img src="https://asset.brandfetch.io/idBxdmVdhR/idpXDwbUME.jpeg" alt="Mendix" height="60" width="60" style="vertical-align:top; margin:4px"></code> 
 
 <code><img src="https://media-01.imu.nl/storage/lowcode-experts.com/11828/outsystemsicon-260x260-1.png" alt="Outsystems" height="60" width="60" style="vertical-align:top; margin:4px"></code> </code> 
@@ -43,8 +50,7 @@
 <code><img src="https://cdn.freebiesupply.com/logos/large/2x/nodejs-1-logo-png-transparent.png" alt="Node" height="70" style="vertical-align:top; margin:4px"></code>
 
 
-<code><img src="https://upload.wikimedia.org/wikipedia/labs/8/8e/Mysql_logo.png" alt="MySQL" height="70" style="vertical-align:top; margin:4px"></code> 
-<code><img src="https://img.icons8.com/color/452/mongodb.png" alt="MongoDB" height="70" style="vertical-align:top; margin:4px"></code>
+
 
 <code><img src="https://user-images.githubusercontent.com/7853266/44114706-9c72dd08-9fd1-11e8-8d9d-6d9d651c75ad.png" alt="Postman" height="65" style="vertical-align:top;"></code>
 </p>
