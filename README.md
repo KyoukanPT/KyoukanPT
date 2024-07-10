@@ -41,14 +41,14 @@
 ## Development Tools and Platforms:
 <code><img src="https://i.pinimg.com/originals/6b/a5/e8/6ba5e8c2a205b64cbfdf5b25bd9e4c22.png" alt="Git" height="80" width="80"></code>
 <code><img src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" alt="Github" height="70"></code>
-<code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap" height="60" width="60"></code> 
+<code><img src="https://user-images.githubusercontent.com/7853266/44114706-9c72dd08-9fd1-11e8-8d9d-6d9d651c75ad.png" alt="Postman" height="65"></code>
 
 ## Low-Code Platforms:
 <code><img src="https://asset.brandfetch.io/idBxdmVdhR/idpXDwbUME.jpeg" alt="Mendix" height="60" width="60"></code> 
 <code><img src="https://media-01.imu.nl/storage/lowcode-experts.com/11828/outsystemsicon-260x260-1.png" alt="Outsystems" height="60" width="60"></code>
 
 ## Front-end Frameworks:
-<code><img src="https://user-images.githubusercontent.com/7853266/44114706-9c72dd08-9fd1-11e8-8d9d-6d9d651c75ad.png" alt="Postman" height="65"></code>
+<code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap" height="60" width="60"></code>
 
 <br>
 
