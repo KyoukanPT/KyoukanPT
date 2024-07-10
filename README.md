@@ -45,8 +45,6 @@
 <code><img src="https://user-images.githubusercontent.com/12401985/69677316-60423a00-1081-11ea-9ec6-7334c0e491a5.png" alt="Robo 3T" height="70" style="vertical-align:top;"></code>
 <code><img src="https://leolanchas.com/wp-content/uploads/2013/07/0d184ee3-fd8d-4b94-acf4-b4e686e57375.png" alt="Passport Js" height="70" style="vertical-align:top;"></code>
 <code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Oauth_logo.svg/1200px-Oauth_logo.svg.png" alt="OAuth 2.0" height="70" style="vertical-align:top;"></code>
-<code><img src="https://www.unixmen.com/wp-content/uploads/2014/03/ubuntu-logo.png" alt="Ubuntu" height="60" style="vertical-align:top;"></code>
-<code><img src="https://seeklogo.com/images/W/windows-10-icon-logo-5BC5C69712-seeklogo.com.png" alt="Windows" height="60" style="vertical-align:top;"></code>
 <code><img src="https://i.pinimg.com/originals/6b/a5/e8/6ba5e8c2a205b64cbfdf5b25bd9e4c22.png" alt="Git" height="80" width="80" style="vertical-align:top; margin:4px"></code> </code>
 <code><img src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" alt="Github" height="70" style="vertical-align:top;"></code>
 <code><img src="https://i.ibb.co/kKQnPPb/gitlab-removebg-preview.png" alt="Gitlab" height="70" style="vertical-align:top;"></code>
