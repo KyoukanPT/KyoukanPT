@@ -38,8 +38,6 @@
 <code><img src="https://i.ibb.co/WDChqGM/Screenshot-2-removebg-preview.png" alt="Mongoose" height="50" width="140" style="vertical-align:top; margin:4px"></code>
 <code><img src="https://i.pinimg.com/originals/6b/a5/e8/6ba5e8c2a205b64cbfdf5b25bd9e4c22.png" alt="Git" height="80" width="80" style="vertical-align:top; margin:4px"></code> </code>
 <code><img src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" alt="Github" height="70" style="vertical-align:top;"></code>
-<code><img src="https://i.ibb.co/kKQnPPb/gitlab-removebg-preview.png" alt="Gitlab" height="70" style="vertical-align:top;"></code>
-<code><img src="https://i.ibb.co/ZdnKgWM/heroku-removebg-preview.png" alt="Heroku" height="60" style="vertical-align:top;"></code>
 <code><img src="https://user-images.githubusercontent.com/7853266/44114706-9c72dd08-9fd1-11e8-8d9d-6d9d651c75ad.png" alt="Postman" height="65" style="vertical-align:top;"></code>
 </p>
 
