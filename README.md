@@ -13,8 +13,8 @@
 
 ## ✉️ Find me on:
 
- <a href="https://www.linkedin.com/in/tiagohenriquesilva/" target="_blank" rel="noopener noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png" alt="Linkedin" height="51" style="vertical-align:top;"></a>
- <a href="mailto: tiagohenrique_1988@hotmail.com" target="_blank" rel="noopener noreferrer"> <img src="https://github.com/user-attachments/assets/cffc4318-87f4-4cdb-a7c1-61547932ab86" alt="Email" height="60" style="vertical-align:top;"></a>
+ <code><a href="https://www.linkedin.com/in/tiagohenriquesilva/" target="_blank" rel="noopener noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png" alt="Linkedin" height="51" style="vertical-align:top;"></a></code>
+ <code><a href="mailto: tiagohenrique_1988@hotmail.com" target="_blank" rel="noopener noreferrer"> <img src="https://github.com/user-attachments/assets/cffc4318-87f4-4cdb-a7c1-61547932ab86" alt="Email" height="60" style="vertical-align:top;"></a></code>
 
 <hr>
 
