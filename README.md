@@ -14,7 +14,7 @@
 ## ✉️ Find me on:
 
  <a href="https://www.linkedin.com/in/tiagohenriquesilva/" target="_blank" rel="noopener noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png" alt="Linkedin" height="51" style="vertical-align:top; margin:4px;"></a>
- <a href="mailto: tiagohenrique_1988@hotmail.com" target="_blank" rel="noopener noreferrer"> <img src="https://i.ibb.co/47KFrZH/outlook-removebg-preview.png" alt="Email" height="60" style="vertical-align:top; margin:4px;"></a>
+ <a href="mailto: tiagohenrique_1988@hotmail.com" target="_blank" rel="noopener noreferrer"> <img src="https://logosmarcas.net/wp-content/uploads/2021/02/Outlook-Simbolo.jpg" alt="Email" height="60" style="vertical-align:top; margin:4px;"></a>
 
 <hr>
 
