@@ -31,6 +31,7 @@
 ## Databases:
 <code><img src="https://img.icons8.com/color/452/mongodb.png" alt="MongoDB" height="70"></code>
 <code><img src="https://upload.wikimedia.org/wikipedia/labs/8/8e/Mysql_logo.png" alt="MySQL" height="70"></code>
+<code><img src="https://github.com/user-attachments/assets/d6e37543-0eb2-4407-b737-dc9160c50447" alt="PostgreSQL" height="70"></code>
 
 ## JavaScript Frameworks and Libraries:
 <code><img src="https://i.ibb.co/74ZtDSX/express-removebg-preview.png" alt="Express" height="60" width="130"></code>
