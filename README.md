@@ -37,6 +37,7 @@
 <code><img src="https://i.ibb.co/74ZtDSX/express-removebg-preview.png" alt="Express" height="60" width="130"></code>
 <code><img src="https://cdn.iconscout.com/icon/free/png-512/jquery-10-1175155.png" alt="JQuery" height="70"></code> 
 <code><img src="https://cdn.freebiesupply.com/logos/large/2x/nodejs-1-logo-png-transparent.png" alt="Node" height="70"></code>
+<code><img src="https://seeklogo.com/images/P/passport-logo-16D89B2F37-seeklogo.com.png" alt="PassportJS" height="70"></code>
 <code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React" height="70"></code>
 
 ## Development Tools and Platforms:
