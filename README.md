@@ -34,7 +34,7 @@
 <code><img src="https://github.com/user-attachments/assets/d6e37543-0eb2-4407-b737-dc9160c50447" alt="PostgreSQL" height="70"></code>
 
 ## JavaScript Frameworks and Libraries:
-<code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Axios_%28computer_library%29_logo.svg/768px-Axios_%28computer_library%29_logo.svg.png?20220213115456" alt="Axios" height="40" width="160"></code>
+<code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Axios_%28computer_library%29_logo.svg/768px-Axios_%28computer_library%29_logo.svg.png?20220213115456" alt="Axios" height="30" width="160"></code>
 <code><img src="https://i.ibb.co/74ZtDSX/express-removebg-preview.png" alt="Express" height="60" width="130"></code>
 <code><img src="https://cdn.iconscout.com/icon/free/png-512/jquery-10-1175155.png" alt="JQuery" height="70"></code> 
 <code><img src="https://cdn.freebiesupply.com/logos/large/2x/nodejs-1-logo-png-transparent.png" alt="Node" height="70"></code>
