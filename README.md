@@ -57,6 +57,7 @@
 
 ## Front-end Frameworks:
 <code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap" height="60" width="60"></code>
+<code><img src="https://img.icons8.com/?size=512&id=gFw7X5Tbl3ss&format=png" alt="Material UI" height="60" width="60"></code>
 
 <hr>
 
