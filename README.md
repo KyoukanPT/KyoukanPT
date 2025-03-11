@@ -60,7 +60,7 @@
 <code><img src="https://img.icons8.com/?size=512&id=gFw7X5Tbl3ss&format=png" alt="Material UI" height="60" width="60"></code>
 
 ## IDE & Code Editors:
-<code><img src="https://w7.pngwing.com/pngs/512/824/png-transparent-visual-studio-code-hd-logo.png" alt="Visual Studio Code" height="60" width="60"></code>
+<code><img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="Visual Studio Code" height="60" width="60"></code>
 
 <hr>
 
