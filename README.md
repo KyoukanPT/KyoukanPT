@@ -60,7 +60,7 @@
 <code><img src="https://img.icons8.com/?size=512&id=gFw7X5Tbl3ss&format=png" alt="Material UI" height="60" width="60"></code>
 
 ## IDE & Code Editors:
-<code><img src="https://en.wikipedia.org/wiki/File:IntelliJ_IDEA_Icon.svg" alt="IntelliJ IDEA" height="60" width="60"></code>
+<code><img src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg" alt="IntelliJ IDEA" height="60" width="60"></code>
 <code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/1024px-PyCharm_Icon.svg.png" alt="Pycharm" height="60" width="60"></code>
 <code><img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="Visual Studio Code" height="60" width="60"></code>
 
