@@ -36,7 +36,7 @@
 
 ## JavaScript Frameworks and Libraries:
 <code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Axios_%28computer_library%29_logo.svg/768px-Axios_%28computer_library%29_logo.svg.png?20220213115456" alt="Axios" height="30" width="160"></code>
-<code><img src="https://i.ibb.co/74ZtDSX/express-removebg-preview.png" alt="Express" height="70"></code>
+<code><img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" alt="Express.js" height="70"></code>
 <code><img src="https://cdn.iconscout.com/icon/free/png-512/jquery-10-1175155.png" alt="JQuery" height="70"></code>
 <code><img src="https://static-00.iconduck.com/assets.00/lodash-icon-512x467-pa72bxtz.png" alt="Lodash" height="70"></code>
 <code><img src="https://blog.kakaocdn.net/dn/AcE19/btq0nOlHUIZ/cwpxdKsY67CbOmUxLbJkk1/img.png" alt="Mongoose" height="70"></code> 
