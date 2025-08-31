@@ -26,7 +26,7 @@
 ## Markup Languages and Templating Engines:
 
 <code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS" height="70"></code>
-<code><img src="https://www.vhv.rs/dpng/d/543-5432188_logo-ejs-logo-png-transparent-png.png" alt="EJS" height="50" width="90"></code>
+<code><img src="https://www.kindpng.com/picc/m/463-4639889_logo-ejs-hd-png-download.png" alt="EJS" height="50" width="90"></code>
 <code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML" height="70"></code>
 
 ## Databases:
