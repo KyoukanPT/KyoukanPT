@@ -26,7 +26,7 @@
 ## Markup Languages and Templating Engines:
 
 <code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS" height="70"></code>
-<code><img src="https://img.icons8.com/?size=100&id=puL87ypQPxxr&format=png&color=000000" alt="EJS" height="70" width="60"></code>
+<code><img src="https://img.icons8.com/?size=100&id=puL87ypQPxxr&format=png&color=000000" alt="EJS" height="70"></code>
 <code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML" height="70"></code>
 
 ## Databases:
