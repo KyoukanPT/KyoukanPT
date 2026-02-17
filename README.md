@@ -50,7 +50,7 @@
 <code><img src="https://pngimg.com/uploads/github/github_PNG83.png" alt="Github" height="70"></code>
 <code><img src="https://desktop.github.com/images/desktop-icon.svg" alt="GitHub Desktop" height="70"></code>
 <code><img src="https://user-images.githubusercontent.com/13700/35731649-652807e8-080e-11e8-88fd-1b2f6d553b2d.png" alt="Nodemon" height="70"></code>
-<code><img src="https://img.icons8.com/color/1200/npm.jpg" alt="NPM" height="80"></code>
+<code><img src="https://avatars.githubusercontent.com/u/6078720?s=200&v=4" alt="NPM" height="80"></code>
 <code><img src="https://user-images.githubusercontent.com/7853266/44114706-9c72dd08-9fd1-11e8-8d9d-6d9d651c75ad.png" alt="Postman" height="65"></code>
 
 ## Low-Code Platforms:
