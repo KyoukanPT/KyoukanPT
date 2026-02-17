@@ -66,9 +66,8 @@
 <code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/1024px-PyCharm_Icon.svg.png" alt="Pycharm" height="60" width="60"></code>
 <code><img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="Visual Studio Code" height="60" width="60"></code>
 
-<hr>
-
 <!--
+<hr>
 ## 🏆 My Github Stats:
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=KyoukanPT&show_icons=true&theme=tokyonight)](https://github.com/KyoukanPT/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KyoukanPT)](https://github.com/KyoukanPT/github-readme-stats)
