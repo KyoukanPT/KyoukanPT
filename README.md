@@ -47,7 +47,7 @@
 <code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React" height="70"></code>
 
 ## Development Tools and Platforms:
-<code><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHaNT3Fi8RMNUpPDk-Zddeo2FTvDN3Sye5AA&s" alt="DotEnv" height="80" width="80"></code>
+<code><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHaNT3Fi8RMNUpPDk-Zddeo2FTvDN3Sye5AA&s" alt="DotEnv" height="60" width="80"></code>
 <code><img src="https://i.pinimg.com/originals/6b/a5/e8/6ba5e8c2a205b64cbfdf5b25bd9e4c22.png" alt="Git" height="80" width="80"></code>
 <code><img src="https://pngimg.com/uploads/github/github_PNG83.png" alt="Github" height="70"></code>
 <code><img src="https://desktop.github.com/images/desktop-icon.svg" alt="GitHub Desktop" height="70"></code>
