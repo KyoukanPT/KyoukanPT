@@ -65,7 +65,7 @@
 
 ## IDE & Code Editors:
 <code><img src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg" alt="IntelliJ IDEA" height="60" width="60"></code>
-<code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/1024px-PyCharm_Icon.svg.png" alt="Pycharm" height="60" width="60"></code>
+<code><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNtMzmUYgnXMpGrN9WQ-dvnhWBfZGWNBamvw&s" alt="Pycharm" height="60" width="60"></code>
 <code><img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="Visual Studio Code" height="60" width="60"></code>
 
 <!--
